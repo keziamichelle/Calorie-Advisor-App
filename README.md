@@ -1,6 +1,6 @@
 *Calorie Advisor App*
 
-This project is a Calorie Advisor App that calculates the calories of each food item in an uploaded image and provides detailed nutrition information. It uses Streamlit for the web interface, Google Generative AI for content generation, and PIL for image handling.
+This project is a Calorie Advisor App that transforms how you understand your diet by analyzing images of food items to calculate their calories and provide detailed nutrition information. Using cutting-edge AI, it offers personalized insights into the healthiness of your meals.
 
 *Features*
 
