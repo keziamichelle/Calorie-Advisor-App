@@ -12,7 +12,7 @@ This project is a Calorie Advisor App that transforms how you understand your di
 
 -Indicate whether the food is healthy or not.
 
-*Technologies Used*
+*Technologies/Tools/Libraries Used*
 
 -Streamlit
 
@@ -20,4 +20,3 @@ This project is a Calorie Advisor App that transforms how you understand your di
 
 -Pillow (PIL)
 
--dotenv
